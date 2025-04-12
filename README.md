@@ -47,14 +47,12 @@
     <pre><code>npm start</code></pre>
     <li>Access the application in your browser at <code>localhost:3000</code>.</li>
   </ol>
- <h2>Watch the Demonstration</h2>
-  <p>Check out the demonstration video on YouTube: <a href="https://youtu.be/eZN1yq1v9E8?si=E40TIK8uOMDMWETN" target="_blank">Click here to watch</a></p>
   <h2>Additional Notes</h2>
   <ul>
     <li>The project includes a homepage with login options for admin, teacher, and student, providing secure access to different functionalities based on user roles.</li>
     <li>Pages within the website facilitate adding students, teachers, and subjects, marking attendance, viewing attendance and grade statistics, and handling complaints.</li>
     <li>The frontend provides visualizations such as pie charts to display attendance and grades, enhancing the personalized education experience.</li>
   </ul>
-
+<h3>Made with love</h3>
 </body>
 </html>
